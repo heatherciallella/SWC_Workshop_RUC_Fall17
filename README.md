@@ -1,6 +1,6 @@
-# Software Carpentry Workshop Materials - Rutgers University - Fall 2016  
+# Software Carpentry Workshop Materials - Rutgers University - Fall 2017
 
-[Workshop link](https://sshende.github.io/2016-11-11-RUCamden/)  
+[Workshop link](https://russodanielp.github.io/2017-10-27-RUCamden/)  
 
 contact shende@camden.rutgers.edu or danrusso@scarletmail.rutgers.edu for questions
 
@@ -18,18 +18,8 @@ Carpentry website or this GitHub page for reference.
 
 ### `/Version control with Git` 
 
-Just the slides from my lesson.  The full lesson can be found at [the Software Carpentry website](http://swcarpentry.github.io/git-novice/).
+Just the slides from the lesson.  The full lesson can be found at [the Software Carpentry website](http://swcarpentry.github.io/git-novice/).
 
-
-### Videos
-
-I will post a link to the workshop video when they become available.  
-
-### Contributing 
-
-If you find any spelling errors or things that need clarification, please create an issue using the issue tracker on the GitHub page.
-
-
-
+ 
 
 These lessons are derived [Software Carpentry](http://software-carpentry.org).  The license is [here](http://software-carpentry.org/license/).
